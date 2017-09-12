@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Application xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App1.App">
+	<Application.Resources>
+
+		<!-- Application resource dictionary -->
+<!--preguntas y respuestas 
+        
+        question 1 :What’s difference between Portable (CPL) and Shared (SAP) projects?
+        respuesta: (sap)shared Application Project: creates a single proyect and is a shared  code
+        (CPL) portable class library: 
+        
+        
+        question 2: What are the requirements to configure Xamarin Mac Agent? 
+        
+        
+        question 3:How many projects you have and why you need all?
+        
+        -->
+	</Application.Resources>
+</Application>
